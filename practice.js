@@ -2,6 +2,7 @@
 <html>
 <body>
 
+
 <h2>JavaScript Statements</h2>
 
 <p>A <b>JavaScript </b> is a list of <b>statements</b> to be executed by a computer.</p>
@@ -10,9 +11,9 @@
 
 <script>
 var x, y, z;  // Declare 3 variables
-x = 5;    // Assign the value 5 to x
-y = 6;    // Assign the value 6 to y
-z = x + y;  // Assign the sum of x and y to z
+x = 5;    
+y = 6;    
+z = x + y;  
 
 document.getElementById("demo").innerHTML =
 "The value of z is " + z + ".";
